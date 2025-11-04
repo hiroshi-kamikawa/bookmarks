@@ -1,0 +1,3 @@
+- [Lucide](https://lucide.dev)
+- [react-icons](https://react-icons.github.io/react-icons)
+- [lucide-animated](https://icons.pqoqubbw.dev)

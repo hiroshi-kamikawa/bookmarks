@@ -1,0 +1,4 @@
+- [google-webfonts-helper](https://gwfh.mranftl.com/fonts)
+- [Min-Max-Value Interpolation](https://min-max-calculator.9elements.com)
+- [Clippy](https://bennettfeely.com/clippy)
+- [Free Online Image Map Generator](https://www.image-map.net)
